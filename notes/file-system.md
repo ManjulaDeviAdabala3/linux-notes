@@ -3,7 +3,7 @@
 ## Commands Learned
 
 ```
-pwd
+pwd  #current path
 ls
 cd
 mkdir
